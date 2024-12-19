@@ -23,6 +23,14 @@ console.log(newDate);
 console.log(newDate.getMonth() + 1);
 console.log(newDate.getDay());
 
+newDate.getTime();
+
+newDate.getSeconds();
+
+date = new Date();
+
+
+
 // `${newDate.getDay()} and the time `
 
 newDate.toLocaleString('default', {
